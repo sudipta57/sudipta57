@@ -68,7 +68,7 @@ A chat application with end-to-end encryption using **Signal Protocol**.
 
 <!-- Activity Graph -->
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudipta-Ghorami&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta57&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph">
 </p>
 
 -----
